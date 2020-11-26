@@ -1,16 +1,24 @@
-# introduction_to_flutter_workshop
+# Introduction To Flutter Workshop
 
-A new Flutter project.
+> A workshop to serve as an introduction to Flutter, Dart and how to go about building your first application.
 
-## Getting Started
+## Table of Contents
+* [🎯 Goals](#goals)
+* [⚡ Get Started](#get-started)
+* [🚀 How To Use This Workshop](#how-to-use-this-workshop)
+​
+## 🎯 Goals
 
-This project is a starting point for a Flutter application.
+- Learn about what Flutter is
+- Learn what the Dart programming language looks like
+- Learn the difference between Stateless and Stateful Widgets
 
-A few resources to get you started if this is your first Flutter project:
+## ⚡ Get Started
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Clone Repo
+```
+# clone the repo
+$ git clone git@github.com:askharley/introduction_to_flutter_workshop.git
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How To Use This Workshop
