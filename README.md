@@ -9,9 +9,16 @@
 ​
 ## 🎯 Goals
 
-- Learn about what Flutter is
-- Learn what the Dart programming language looks like
-- Learn the difference between Stateless and Stateful Widgets
+- Learn what Flutter is
+- Learn what Dart is
+- Learn why we should be using Flutter
+- Learn how to create a new Flutter project
+- Demonstrate what [pub.dev](https://pub.dev/) is
+- Demonstrate how to add a package to your application
+- Learn what widgets are
+- Learn what the widget tree is
+- Learn what the element tree is
+- Learn the difference between stateful and stateless widgets
 
 ## ⚡ Get Started
 
